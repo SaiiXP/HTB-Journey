@@ -10,6 +10,7 @@
     sudo nmap -p- -T4 --min-rate=1000 10.129.183.16
     ```
   * Answer: `6379`
+    ![results](assets/Redeermer1.png)
 
 * **Which service is running on the port that is open on the machine?**
   * Answer: `redis`
@@ -25,6 +26,7 @@
 
 * **Once connected to a Redis server, which command is used to obtain the information and statistics about the Redis server?**
   * Answer: `INFO`
+    ![results](assets/Redeemer2.png)
 
 * **What is the version of the Redis server being used on the target machine?**
   * Command:
@@ -41,6 +43,7 @@
     ```text
     KEYS *
     ```
+    ![results](assets/Redeemer3.png)
   * Answer: `4`
 
 * **Which command is used to obtain all the keys in a database?**
