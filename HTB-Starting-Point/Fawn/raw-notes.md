@@ -20,7 +20,7 @@
     ```bash
     nmap -p21,22,443 -sV -sC 10.129.181.205
     ```
-    !(assets/fawn1.png)
+    ![results](assets/fawn1.png)
   * Answer: `VSFTPD 3.0.3`
 
 * **From your scans, what OS type is running on the target?**
