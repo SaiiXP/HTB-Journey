@@ -10,6 +10,7 @@
     sudo nmap -p- -T4 --min-rate=1000 10.129.183.16
     ```
   * Answer: `6379`
+    
     ![results](assets/Redeemer1.png)
 
 * **Which service is running on the port that is open on the machine?**
