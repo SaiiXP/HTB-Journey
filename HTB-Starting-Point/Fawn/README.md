@@ -1,6 +1,6 @@
 [fawn_assessment_report.md](https://github.com/user-attachments/files/34546029/fawn_assessment_report.md)
 
-# HTB Assessment Report
+# HTB - Starting Point - Fawn
 
 * **Target / Scope:** `HTB - Fawn (Very Easy)`
 * **Author / Analyst:** `SaiiXP`
