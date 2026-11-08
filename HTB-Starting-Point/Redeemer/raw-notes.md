@@ -26,6 +26,7 @@
 
 * **Once connected to a Redis server, which command is used to obtain the information and statistics about the Redis server?**
   * Answer: `INFO`
+    
     ![results](assets/Redeemer2.png)
 
 * **What is the version of the Redis server being used on the target machine?**
